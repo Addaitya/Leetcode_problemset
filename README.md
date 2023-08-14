@@ -1,8 +1,29 @@
-# React + Vite
+# LeetCode Problem Sets
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is fetchs problem set from [db.json](./db.json).
 
-Currently, two official plugins are available:
+## Requirement
+Following thing must be installed on your device:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+node or npm
+Yarn (optional)
+Git
+
+## Git 
+```
+git clone git@github.com:Addaitya/Leetcode_problemset.git
+```
+
+## Installation
+Insall dependencies:
+```
+npm install  OR  yarn
+```
+then to turn on json sever:
+```
+npm run server
+```
+at last run the project
+```
+npm run dev
+```
