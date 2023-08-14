@@ -1,0 +1,110 @@
+{ 
+  "No-of-sets": [3],
+  "problem-sets":[
+      {
+        "id": 0,
+        "problem-set": [
+        {
+          "id": 0,
+          "title": "Unique Paths ||",
+          "acceptance": 50.4,
+          "difficulty": "Medium"
+        },
+        {
+          "id": 1,
+          "title": "N-Queens",
+          "acceptance": 65.7,
+          "difficulty": "Hard"
+        },
+        {
+          "id": 2,
+          "title": "Maximum Subarray",
+          "acceptance": 50.3,
+          "difficulty": "Medium"
+        },
+        {
+          "id": 3,
+          "title": "Spiral Matrix",
+          "acceptance": 47.1,
+          "difficulty": "Medium"
+        },
+        {
+          "id": 4,
+          "title": "Jump Game",
+          "acceptance": 38.7,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "problem-set":[
+        {
+          "id": 0,
+          "title": "Merge Intervals",
+          "acceptance": 46.4,
+          "difficulty": "Medium"
+        },
+        {
+          "id": 1,
+          "title": "Insert Interval",
+          "acceptance": 39.3,
+          "difficulty": "Medium"
+        },
+        {
+          "id": 2,
+          "title": "Lenght of Last Word",
+          "acceptance": 45.2,
+          "difficulty": "Easy"
+        },
+        {
+          "id": 3,
+          "title": "Unique Path |",
+          "acceptance": 63.6,
+          "difficulty": "Medium"
+        },
+        {
+          "id": 4,
+          "title": "Unique Paths ||",
+          "acceptance": 50.4,
+          "difficulty": "Easy"
+        },
+        {
+          "id": 5,
+          "title": "Add Binary",
+          "acceptance": 52.6,
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "id":2 ,
+      "problem-set":[
+        {
+          "id": 0,
+          "title": "Unique Paths ||",
+          "acceptance": 50.4,
+          "difficulty": "Hard"
+        },
+        {
+          "id": 1,
+          "title": "Unique Paths ||",
+          "acceptance": 50.4,
+          "difficulty": "Easy"
+        },
+        {
+          "id": 2,
+          "title": "Unique Paths ||",
+          "acceptance": 50.4,
+          "difficulty": "Medium"
+        },
+        {
+          "id": 3,
+          "title": "Unique Paths ||",
+          "acceptance": 50.4,
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}
